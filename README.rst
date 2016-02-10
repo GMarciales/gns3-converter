@@ -1,11 +1,16 @@
 gns3-converter: GNS3 Topology Converter
 ***************************************
 
-.. image:: https://travis-ci.org/dlintott/gns3-converter.svg?branch=master
-    :target: https://travis-ci.org/dlintott/gns3-converter
+The original code is from Daniel Lintott:
+https://github.com/dlintott/gns3-converter
 
-.. image:: https://img.shields.io/coveralls/dlintott/gns3-converter/master.svg
-    :target: https://coveralls.io/r/dlintott/gns3-converter?branch=master 
+The GNS3 team forked it in order to update it for the last versions of GNS3.
+
+.. image:: https://travis-ci.org/gns3/gns3-converter.svg?branch=master
+    :target: https://travis-ci.org/gns3/gns3-converter
+
+.. image:: https://img.shields.io/coveralls/gns3/gns3-converter/master.svg
+    :target: https://coveralls.io/r/gns3/gns3-converter?branch=master 
 
 .. image:: https://img.shields.io/pypi/v/gns3-converter.svg
     :target: https://pypi.python.org/pypi/gns3-converter

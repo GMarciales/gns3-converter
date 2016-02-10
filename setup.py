@@ -28,14 +28,15 @@ if sys.platform == 'win32':
     }
 
 setup(
-    name='gns3-converter',
+    name='gns3-net-converter',
     version=__import__('gns3converter').__version__,
     packages=['gns3converter'],
-    url='https://github.com/dlintott/gns3-converter',
+    url='https://github.com/gns3/gns3-converter',
     license='GPLv3+',
-    author='Daniel Lintott',
-    author_email='daniel@serverb.co.uk',
-    description='Convert old ini-style GNS3 topologies (<=0.8.7) to the '
+    author='GNS3 Team',
+    author_email='developers@gns3.net',
+    description='Official fork by GNS3 team of the gns3 converter.
+                 Convert old ini-style GNS3 topologies (<=0.8.7) to the '
                 'newer version 1+ JSON format',
     long_description=open("README.rst", "r").read(),
     test_suite='tests',
