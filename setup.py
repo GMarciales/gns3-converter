@@ -35,8 +35,8 @@ setup(
     license='GPLv3+',
     author='GNS3 Team',
     author_email='developers@gns3.net',
-    description='Official fork by GNS3 team of the gns3 converter.
-                 Convert old ini-style GNS3 topologies (<=0.8.7) to the '
+    description='Official fork by GNS3 team of the gns3 converter.'
+                'Convert old ini-style GNS3 topologies (<=0.8.7) to the '
                 'newer version 1+ JSON format',
     long_description=open("README.rst", "r").read(),
     test_suite='tests',
