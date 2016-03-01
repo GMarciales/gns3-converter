@@ -6,17 +6,11 @@ https://github.com/dlintott/gns3-converter
 
 The GNS3 team forked it in order to update it for the last versions of GNS3.
 
-.. image:: https://travis-ci.org/gns3/gns3-converter.svg?branch=master
-    :target: https://travis-ci.org/gns3/gns3-converter
+.. image:: https://img.shields.io/pypi/v/gns3-net-converter.svg
+    :target: https://pypi.python.org/pypi/gns3-net-converter
 
-.. image:: https://img.shields.io/coveralls/gns3/gns3-converter/master.svg
-    :target: https://coveralls.io/r/gns3/gns3-converter?branch=master 
-
-.. image:: https://img.shields.io/pypi/v/gns3-converter.svg
-    :target: https://pypi.python.org/pypi/gns3-converter
-
-.. image:: https://img.shields.io/pypi/l/gns3-converter.svg
-    :target: https://pypi.python.org/pypi/gns3-converter
+.. image:: https://img.shields.io/pypi/l/gns3-net-converter.svg
+    :target: https://pypi.python.org/pypi/gns3-net-converter
 
 GNS3 Converter is designed to convert old ini-style GNS3 topologies (<=0.8.7)
 to the newer version v1+ JSON format for use in GNS3 v1+
