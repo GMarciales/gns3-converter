@@ -1,2 +1,1 @@
-configobj
-cx_Freeze
+configobj>=5.0.6
